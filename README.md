@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeuHubPython)](https://github.com/MeuHubPython/github-readme-stats)
+
 <!--
 **MeuHubPython/MeuHubPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
