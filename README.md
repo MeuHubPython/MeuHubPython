@@ -1,5 +1,5 @@
-# Hello Dev! My name is Gustavo Henrique! 👨‍💻
-## Computer Science studant!💻📚
+# Hello Dev! I'm Gustavo Henrique! 👨‍💻
+## Computer Science studant! 💻📚
 <div>
 <a href="https://github.com/MeuHubPython">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeuHubPython&layout=compact&langs_count=7&theme=github_dark"/>
@@ -8,14 +8,7 @@
 <!--
 **MeuHubPython/MeuHubPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+          
