@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hello Dev! My name is Gustavo Henrique! 👨‍💻
+## Computer Science studant!💻📚
 <div>
 <a href="https://github.com/MeuHubPython">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeuHubPython&layout=compact&langs_count=7&theme=github_dark"/>
