@@ -8,7 +8,7 @@
 
 ## Tools and Technologies:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='40' height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='40' height='40'/> 
+[![My Skills](https://skillicons.dev/icons?i=git,py)](https://skillicons.dev)
 
 ## I'm Studying:
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,java,ruby,flask)](https://skillicons.dev)
