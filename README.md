@@ -11,8 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='40' height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='40' height='40'/> 
 
 ## I'm Studying:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width='40' height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width='40' height='40' background ='white'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width='40' height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width='40' height='40'/>
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,java,ruby,flask)](https://skillicons.dev)
 
 ## Contact
 
