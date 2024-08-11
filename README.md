@@ -1,5 +1,7 @@
-# Hello Dev! I'm Gustavo Henrique! 
-## Computer Science studant! 💻📚
+# Gustavo Henrique (MeuHubPython)
+## Computer Science Student
+### Passionate about studying programming, especially Python S2
+
 <div>
 <a href="https://github.com/MeuHubPython">
 <img loading="lazy" height="180em" padx='10' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeuHubPython&layout=compact&langs_count=7&theme=github_dark"/>
