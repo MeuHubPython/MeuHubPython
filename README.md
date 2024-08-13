@@ -4,7 +4,7 @@
 
 <div>
 <a href="https://github.com/MeuHubPython">
-<img loading="lazy" height="180em" padx='10' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeuHubPython&layout=compact&langs_count=7&theme=github_dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeuHubPython&layout=compact&langs_count=7&theme=github_dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MeuHubPython&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
