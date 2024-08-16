@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,py)](https://skillicons.dev)
 
 ## I'm Studying:
-[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,java,ruby,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,java,flask,go)](https://skillicons.dev)
 
 ## Contact
 
