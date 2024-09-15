@@ -3,8 +3,14 @@
 ### Passionate about studying programming, especially Python S2
 
 <div>
-<a href="https://github.com/MeuHubPython">
-<img loading="lazy" height="180em" width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeuHubPython&layout=compact&langs_count=7&theme=github_dark"/><img loading="lazy" height="180em" width="700em" src="https://github-readme-stats.vercel.app/api?username=MeuHubPython&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/MeuHubPython">
+  <img loading="lazy" height="180em" width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeuHubPython&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
+</div>
+<div>
+  <a href="https://github.com/MeuHubPython">
+  <img loading="lazy" height="180em" width="700em" src="https://github-readme-stats.vercel.app/api?username=MeuHubPython&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
 ## Tools and Technologies:
