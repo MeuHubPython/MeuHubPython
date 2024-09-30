@@ -1,6 +1,6 @@
 # Gustavo Henrique (MeuHubPython)
 ## Computer Science Student
-### Passionate about studying programming, especially Python S2
+### Passionate about studying programming
 
 <div>
   <a href="https://github.com/MeuHubPython">
