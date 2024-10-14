@@ -28,3 +28,6 @@
 <a href="https://www.linkedin.com/in/gustavo-titara-13900b1a7" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Badges
+
+[![An image of @meuhubpython's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meuhubpython)](https://holopin.io/@meuhubpython)
