@@ -13,7 +13,7 @@ I'm a computer science student and I have always liked programming, my dream is 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeuHubPython&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MeuHubPython&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MeuHubPython&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🎖️ Badges
 [![An image of @meuhubpython's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meuhubpython)](https://holopin.io/@meuhubpython)
