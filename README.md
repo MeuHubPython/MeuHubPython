@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student and I have always liked programming, my dream is to enter the technology field and contribute to the open source world
+I'm a computer science student and I have always liked programming, my dream is to enter the technology field and contribute to the open source world!
 
 
 ## 🌐 Socials:
